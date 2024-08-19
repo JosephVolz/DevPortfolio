@@ -9,9 +9,9 @@ import Footer from "@/components/layout/footer";
 
 const inter = Inter({subsets: ["latin"]});
 
-const title = "Xinlu Gui | Full Stack Developer From Ahmedabad, India.";
+const title = "Xinlu Gui | Full Stack Developer.";
 const description =
-  "A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ahmedabad, India.";
+  "A self-proclaimed designer who specializes in full stack development (React.js & Node.js";
 const url = "https://xinlugui.dev";
 
 export const metadata: Metadata = {
