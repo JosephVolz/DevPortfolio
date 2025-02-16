@@ -13,7 +13,7 @@ import useWindowSize from '@/hooks/use-window-size';
 import { copyTextToClipboard } from '@/lib/utils';
 
 let email = 'xinlugui615@gmail.com';
-let phone = '+1 (435) 363-9580';
+let phone = '+1 (585) 499-7876';
 
 type CopyValue = 'email' | 'phone';
 
